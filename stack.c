@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include<stdlib.h>
-
+//New comment has been added
  struct Stack
 {
 	int data;
